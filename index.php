@@ -1,8 +1,8 @@
 <?php
-require_once("dts/dbaSis.php");
-require_once("dts/getSis.php");
-require_once("dts/outSis.php");
-require_once("dts/setSis.php");
+include("dts/dbaSis.php");
+include("dts/getSis.php");
+include("dts/outSis.php");
+include("dts/setSis.php");
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
